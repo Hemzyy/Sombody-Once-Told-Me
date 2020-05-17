@@ -9,7 +9,7 @@ Send the shrek movie script line by line to someone
 1. Launch your terminal app of choice (I use the cmd terminal).
 2. Navigate to the folder that you saved "shrek.py" to by typing `cd path\to\shrek\`.
 
-	_If you downloaded it into your downloads folder, you can simply run_ `cd Downloads`_
+	_If you downloaded it into your downloads folder, you can simply run_ `cd Downloads`
 3. Run the script by typing `python shrek.py`.
 4. You now have 4 seconds to click whatever text field you want to type the movie's script into.
 5. Enjoy!
