@@ -13,6 +13,7 @@ lines = []
 for line in scriptLines:
 	lines.append(line)
 
+print('You have 4 seconds to click in a textBox')
 time.sleep(4)
 
 for line in lines:
