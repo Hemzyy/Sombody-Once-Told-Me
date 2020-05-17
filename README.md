@@ -12,6 +12,7 @@ Send the shrek movie script line by line to someone
 	_If you downloaded it into your downloads folder, you can simply run_ `cd Downloads`_
 3. Run the script by typing `python shrek.py`.
 4. You now have 4 seconds to click whatever text field you want to type the movie's script into.
+5. Enjoy!
 
 ---
 
