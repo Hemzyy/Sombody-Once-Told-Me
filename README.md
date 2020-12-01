@@ -1,5 +1,5 @@
 # Sombody-Once-Told-Me
-Send the shrek movie script line by line to someone
+Send the shrek movie script line by line to anyone
 
 ## How to use
 * You must install Python. You can install it at [https://www.python.org/downloads/](https://www.python.org/downloads/)
